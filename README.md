@@ -3,7 +3,7 @@
 RL PhD researcher building AI system's. I train agents to control drilling rigs by day and fine-tune small models to run business operations by night.
 
 Currently:
-- PhD @ University of Stavanger — deep RL (SAC) for autonomous drilling, trained in a wellbore hydraulics digital twin I built
+- PhD @ University of Stavanger — deep RL for autonomous drilling, trained in a wellbore hydraulics digital twin I built
 - Building aicos — a local-first AI chief of staff for SMEs (LoRA fine-tuned Qwen3-4B tool router, Ollama, human-in-the-loop approval queue)
 - Working through a public post-training curriculum: nanoGPT → DPO → GRPO → RL fine-tuning for tool use ([follow along](https://substack.com/@anashku))
 - Building a SLM from scratch, which can be used as an SME for lawyers
