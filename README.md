@@ -13,6 +13,7 @@ Featured work:
 | Project | What it shows |
 |---|---|
 | [aicos](REPO_LINK) | End-to-end agentic system: SLM tool routing, typed events, data custody |
+| [legal-slm](REPO_LINK) | SLM trained from scratch for legal domain SME tasks and specialized knowledge |
 | [post-training-from-scratch](REPO_LINK) | DPO + GRPO implemented from the papers, verified against TRL |
 | [nanogpt-from-scratch](REPO_LINK) | Transformer internals, hand-built: attention, RoPE, KV-cache, BPE |
 | [fluid-twin](REPO_LINK) | Physics-based Gymnasium environment for RL control research |
